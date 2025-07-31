@@ -19,3 +19,26 @@ Credits and grades are based on **total submitted exercises** for Parts 0-7 (inc
 | 72        | 5       | 1     |
 
 > 📌 **Important**: Once you complete enough exercises for a passing grade (72+), you can download your course certificate from the submission system.
+## University Credits and Exam Requirements
+
+### Exam Requirements for ECTS Credits
+- 📝 **Mandatory exam completion** required to receive university credits
+- ✅ Exam must be passed (though **doesn't count toward final grade**)
+- 🔗 [Exam details and information](https://fullstackopen.com/en/#course-exam)
+
+### Important Exam Considerations
+1. **Prerequisite**: 
+   - Must submit ≥72 exercises (5 credits worth) before taking exam
+   - ⚠️ Not recommended to take exam immediately after minimum submissions
+2. **Exam Characteristics**:
+   - Same exam for all credit levels (5-14 credits)
+   - Has no impact on final course grade
+
+### Course Certificate vs. University Credits
+| Requirement          | Course Certificate | University Credits |
+|----------------------|--------------------|--------------------|
+| Exercise submissions | ✓ Required         | ✓ Required         |
+| Passing exam         | ✗ Not needed       | ✓ Required         |
+| Open University registration | ✗ Not needed | ✓ Required         |
+
+> ℹ️ You can obtain the course certificate without taking the exam or Open University registration
